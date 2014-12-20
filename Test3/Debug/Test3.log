@@ -1,0 +1,20 @@
+﻿빌드 시작: 2014-12-20 오후 11:22:30
+     1>2 노드의 "D:\Minwoo\dev\GitHub\Main\Test3\Test3.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Test3.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test3.cpp
+         test3.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Minwoo\dev\GitHub\Main\Test3\Debug\Test3.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Test3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Minwoo\dev\GitHub\Main\Test3\Debug\Test3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Minwoo\dev\GitHub\Main\Test3\Debug\Test3.lib" /MACHINE:X86 Debug\test3.obj
+         Test3.vcxproj -> D:\Minwoo\dev\GitHub\Main\Test3\Debug\Test3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Minwoo\dev\GitHub\Main\Test3\Debug\Test3.exe;#1" /manifest Debug\Test3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         "Debug\Test3.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Test3.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"D:\Minwoo\dev\GitHub\Main\Test3\Test3.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.92
