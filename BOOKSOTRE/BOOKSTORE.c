@@ -9,7 +9,7 @@ int main() {
 	Book data[200][100];
 	Book temp;
 	int casenum, n, m, i, j, k, l;
-	int totalcost, totalsave, result, minsave;
+	int totalcost, totalsave, result;
 
 	scanf("%d",&casenum);
 
