@@ -38,7 +38,6 @@ bool check[9];
 
 int main()
 {
-	
 	for(int i=1; i<=8; i++) //node 수만큼 확정 
 	{
 		min = M;
